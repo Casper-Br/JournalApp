@@ -1,0 +1,1 @@
+# The foundation for a desktop app that can be a used as an imageboard diary.
