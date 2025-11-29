@@ -1,4 +1,7 @@
-#user {
+
+
+
+section {
     display:flex;
-    position:fixed;
+    flex-direction:row;
 }
